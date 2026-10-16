@@ -107,6 +107,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-332d45) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [flux2-prompts-cn](https://github.com/dnh5k54bukj/flux2-prompts-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch [flux2-api-de](https://github.com/jpblmt-we/flux2-api-de) · Español [flux2-api-es](https://github.com/my9x83cvrem/flux2-api-es) · Français [flux2-api-fr](https://github.com/a60au8/flux2-api-fr) · Relay/gateway [flux2-api-gateway](https://github.com/h16wl2hk2jsr5/flux2-api-gateway) · Bahasa [flux2-api-id](https://github.com/irble1yxvm4/flux2-api-id) · 日本語 [flux2-api-ja](https://github.com/zbrg4-to41d4s/flux2-api-ja) · 한국어 [flux2-api-ko](https://github.com/rcqfbdzxruljzj/flux2-api-ko) · Português [flux2-api-pt](https://github.com/oegn4hjpzdou/flux2-api-pt) · Русский [flux2-api-ru](https://github.com/x621qovt/flux2-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [flux2](https://github.com/topics/flux2) · [flux2-api](https://github.com/topics/flux2-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
